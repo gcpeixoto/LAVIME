@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Garbage files
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+./scripts/outline.txt
+
+# MyST build outputs
+_build

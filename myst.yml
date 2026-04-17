@@ -1,0 +1,93 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: d1419344-c164-4318-9948-61e917efd8ff
+  title: "Laboratório Virtual de Métodos Numéricos (LAVIME)"
+  description: "Repositório digital para aprendizagem de métodos numéricos a partir da ciência e engenharia computacional holística."
+  keywords: ["Métodos numéricos", "Ciência e engenharia computacional", "Python"]
+  authors: ["Gustavo Oliveira"]
+  github: "https://github.com/gcpeixoto/LAVIME"  
+  toc:    
+    - file: README.md        
+    - title: Cadernos    
+      children:
+        - file: ipynb/aula-00-modelagem-programacao.ipynb      
+        - file: ipynb/aula-01-introMetnum.ipynb
+        - file: ipynb/aula-02-erros.ipynb
+        - file: ipynb/aula-03-analise-grafica.ipynb
+        - file: ipynb/aula-04-bissecao.ipynb
+        - file: ipynb/aula-05-newton.ipynb
+        - file: ipynb/aula-06-matrizes-vetores.ipynb
+        - file: ipynb/aula-07-fatoracao-lu.ipynb
+        - file: ipynb/aula-08-jacobi-seidel.ipynb
+        - file: ipynb/aula-09-newton-nao-linear.ipynb
+        - file: ipynb/aula-10-interpolacao-newton.ipynb
+        - file: ipynb/aula-11-cholesky.ipynb
+        - file: ipynb/aula-11-minimos-quadrados.ipynb
+        - file: ipynb/aula-12-ajusteNaoLinear.ipynb
+        - file: ipynb/aula-13-integracao-newtonCotes.ipynb
+        - file: ipynb/aula-14-interpolacao-lagrange.ipynb
+        - file: ipynb/aula-14-quadratura-gaussiana.ipynb
+        - file: ipynb/aula-15-diferenciacao-numerica.ipynb
+        - file: ipynb/aula-16-solucoes-edo.ipynb
+        - file: ipynb/aula-17-metodo-euler.ipynb
+        - file: ipynb/aula-18-taylor-rungeKutta.ipynb      
+    - title: Recortes
+      children:
+        - file: ipynb/clippings/clipping-01-analise-numerica.ipynb
+        - file: ipynb/clippings/clipping-02-programacao-software.ipynb
+        - file: ipynb/clippings/clipping-03-padrao-ieee-754.ipynb
+        - file: ipynb/clippings/clipping-04-digitos-significativos-precisao-acuracia.ipynb
+        - file: ipynb/clippings/clipping-05-desastre-patriot.ipynb
+        - file: ipynb/clippings/clipping-06-definicoes-erros.ipynb
+        - file: ipynb/clippings/clipping-07-erros-medicao-esfigmomanometro.ipynb
+        - file: ipynb/clippings/clipping-08-enganos-erros-incerteza.ipynb
+        - file: ipynb/clippings/clipping-09-decimal-fractions.ipynb
+        - file: ipynb/clippings/clipping-10-hpc.ipynb
+        - file: ipynb/clippings/clipping-11-newton-raphson-raizes-multiplas.ipynb
+        - file: ipynb/clippings/clipping-12-condicionamento-normas-matrizes.ipynb
+        - file: ipynb/clippings/clipping-13-erro-interpolacao.ipynb
+        - file: ipynb/clippings/clipping-14-projecao-ortogonal-equacoes-normais.ipynb
+        - file: ipynb/clippings/clipping-15-formulas-newton-cotes.ipynb
+    - title: Code Sessions
+      children:
+        - file: ipynb/code-sessions/codeSession-1-polyval.ipynb
+        - file: ipynb/code-sessions/codeSession-2-bisect.ipynb
+        - file: ipynb/code-sessions/codeSession-3-newton.ipynb
+        - file: ipynb/code-sessions/codeSession-4-solve.ipynb
+        - file: ipynb/code-sessions/codeSession-5-fsolve.ipynb
+        - file: ipynb/code-sessions/codeSession-6-interp.ipynb
+        - file: ipynb/code-sessions/codeSession-7-fit.ipynb
+        - file: ipynb/code-sessions/codeSession-8-integrate.ipynb
+        - file: ipynb/code-sessions/codeSession-9-solve_ivp.ipynb
+    - title: Extra
+      children:
+        - file: ipynb/extra/extra-camposDirecaoEDO.ipynb
+        - file: ipynb/extra/extra-docstrings.ipynb
+        - file: ipynb/extra/extra-edoSuperior.ipynb
+        - file: ipynb/extra/extra-estabilidadeEuler.ipynb
+        - file: ipynb/extra/extra-eulerImplicito.ipynb
+        - file: ipynb/extra/extra-eulerMelhorado.ipynb
+        - file: ipynb/extra/extra-fft.ipynb
+        - file: ipynb/extra/extra-malhasNumericas.ipynb
+        - file: ipynb/extra/extra-matplotlibTopicos.ipynb
+        - file: ipynb/extra/extra-metodo-linhas.ipynb
+        - file: ipynb/extra/extra-muller.ipynb
+        - file: ipynb/extra/extra-multistep-adamsBashfort.ipynb
+        - file: ipynb/extra/extra-numba.ipynb
+        - file: ipynb/extra/extra-pontoFixo.ipynb
+        - file: ipynb/extra/extra-pontoFlutuante.ipynb
+        - file: ipynb/extra/extra-secante.ipynb
+        - file: ipynb/extra/extra-sistemasEDO.ipynb
+        - file: ipynb/extra/extra-tensorFlow.ipynb
+  numbering:
+     title: false
+     headings: false
+site:
+  template: book-theme
+  options:
+  #   favicon: favicon.ico
+      logo: ./styles/numbiosis.png
+      logo_dark: ./styles/numbiosis-dark.png
+      logo_text: "Projeto Numbiosis"
+      numbered_references : true
