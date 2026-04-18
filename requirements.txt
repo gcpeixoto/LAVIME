@@ -1,8 +1,12 @@
 numpy
 matplotlib
+seaborn
 scipy
 sympy
 pandas
 plotly
 prettytable
 jupyter-book
+scikit-learn
+dash
+bokeh

@@ -70,22 +70,22 @@ O programa do curso segue abaixo:
 
 - Modelagem integrada e engenharia computacional
 
-    - [Caderno 1 - Modelagem Integrada: Uma Ferramenta para Compreender e Simular o Mundo Real](aula-00-modelagem-programacao.ipynb) (1h)
-    - [Caderno 2 - Métodos Numéricos: Necessidade, Evolução e Profissão](aula-01-introMetnum.ipynb) (2h)    
-    - [Caderno 3 - Do Contínuo ao Computável: Discretização e Erros Numéricos](aula-02-erros.ipynb) (1h)
+    - [Caderno 1 - Modelagem Integrada: Uma Ferramenta para Compreender e Simular o Mundo Real](./ipynb/aula-00-modelagem-programacao.ipynb) (1h)
+    - [Caderno 2 - Métodos Numéricos: Necessidade, Evolução e Profissão](./ipynb/aula-01-introMetnum.ipynb) (2h)    
+    - [Caderno 3 - Do Contínuo ao Computável: Discretização e Erros Numéricos](./ipynb/aula-02-erros.ipynb) (1h)
     - Avaliação: Quiz (1h)
 
 ### Módulo 2
 
 - Determinação de raízes de equações não lineares unidimensionais 
 
-    - [Caderno 3 - Do Contínuo ao Computável: Discretização e Erros Numéricos](aula-02-erros.ipynb) (1h)
-    - [Caderno 4 - Domando Equações Não Lineares: Inspeção e Descobrimento de Raízes](aula-03-analise-grafica.ipynb) (2h)
-    - [_Code session 1_ - roots e polyval](./code-sessions/codeSession-1-polyval.ipynb) (2h)
-    - [Caderno 5 - Método da Bisseção: A Arte de Cindir e Convergir](aula-04-bissecao.ipynb) (2h)
-    - [_Code session 2_ - bisect](./code-sessions/codeSession-2-bisect.ipynb) (2h)
+    - [Caderno 3 - Do Contínuo ao Computável: Discretização e Erros Numéricos](./ipynb/aula-02-erros.ipynb) (1h)
+    - [Caderno 4 - Domando Equações Não Lineares: Inspeção e Descobrimento de Raízes](./ipynb/aula-03-analise-grafica.ipynb) (2h)
+    - [_Code session 1_ - roots e polyval](./ipynb/code-sessions/codeSession-1-polyval.ipynb) (2h)
+    - [Caderno 5 - Método da Bisseção: A Arte de Cindir e Convergir](./ipynb/aula-04-bissecao.ipynb) (2h)
+    - [_Code session 2_ - bisect](./ipynb/code-sessions/codeSession-2-bisect.ipynb) (2h)
     - [Caderno 6 - Método de Newton: Sair pela Tangente sem Perder o Rumo](aula-05-newton.ipynb) (2h)
-    - [_Code session 3_ - newton](./code-sessions/codeSession-3-newton.ipynb) (2h)
+    - [_Code session 3_ - newton](./ipynb/code-sessions/codeSession-3-newton.ipynb) (2h)
     - Avaliação: Prova (2h)
 
 
@@ -93,29 +93,29 @@ O programa do curso segue abaixo:
 
 - Resolução de sistemas de equações multidimensionais
 
-    - [Caderno 7 - Do Vetor ao Sistema Linear: Computação Vetorizada Na Prática](aula-06-matrizes-vetores.ipynb) (2h)
-    - [Caderno 8 - Sistemas Lineares na Prática Computacional: Métodos Diretos e Fatoração LU](aula-07-fatoracao-lu.ipynb) (4h)
-    - [_Code session 4_ - solve](./code-sessions/codeSession-4-solve.ipynb) (2h)
-    - [Caderno 9 - Sistemas Lineares na Prática Computacional: Métodos Iterativos](aula-08-jacobi-seidel.ipynb) (2h)
+    - [Caderno 7 - Do Vetor ao Sistema Linear: Computação Vetorizada Na Prática](./ipynb/aula-06-matrizes-vetores.ipynb) (2h)
+    - [Caderno 8 - Sistemas Lineares na Prática Computacional: Métodos Diretos e Fatoração LU](./ipynb/aula-07-fatoracao-lu.ipynb) (4h)
+    - [_Code session 4_ - solve](./ipynb/code-sessions/codeSession-4-solve.ipynb) (2h)
+    - [Caderno 9 - Sistemas Lineares na Prática Computacional: Métodos Iterativos](./ipynb/aula-08-jacobi-seidel.ipynb) (2h)
     - [Caderno 10 - Método de Newton para sistemas não-lineares](aula-09-newton-nao-linear.ipynb)
-    - [_Code session 5_ - fsolve](./code-sessions/codeSession-5-fsolve.ipynb)
+    - [_Code session 5_ - fsolve](./ipynb/code-sessions/codeSession-5-fsolve.ipynb)
     - Avaliação: Projeto Computacional (4h)
 
 ### Módulo 4 
 
 - Teoria da aproximação
 
-    - [Caderno 11 - Em Busca do Desconhecido: Interpolação Polinomial](aula-10-interpolacao-newton.ipynb) (2h)
-    - [Caderno 12 - Ajuste de Curvas por Mínimos Quadrados](aula-11-minimos-quadrados.ipynb) (2h)
-    - [Caderno 13 - Regressão não linear](aula-12-ajusteNaoLinear.ipynb) (2h)
-    - [_Code session 6_ - interp](./code-sessions/codeSession-6-interp.ipynb) (2h)
-    - [_Code session 7_ - fit](./code-sessions/codeSession-7-fit.ipynb) (2h)
+    - [Caderno 11 - Em Busca do Desconhecido: Interpolação Polinomial](./ipynb/aula-10-interpolacao-newton.ipynb) (2h)
+    - [Caderno 12 - Ajuste de Curvas por Mínimos Quadrados](./ipynb/aula-11-minimos-quadrados.ipynb) (2h)
+    - [Caderno 13 - Regressão não linear](./ipynb/aula-12-ajusteNaoLinear.ipynb) (2h)
+    - [_Code session 6_ - interp](./ipynb/code-sessions/codeSession-6-interp.ipynb) (2h)
+    - [_Code session 7_ - fit](./ipynb/code-sessions/codeSession-7-fit.ipynb) (2h)
 
 - Integração numérica 
 
-    - [Caderno 14 - Integração Numérica: Regras de Newton-Cotes](aula-13-integracao-newtonCotes.ipynb) (4h)
-    - [Caderno 15 - Quadratura Gaussiana](aula-14-quadratura-gaussiana)
-    - [_Code session 8_ - integrate](./code-sessions/codeSession-8-integrate.ipynb)
+    - [Caderno 14 - Integração Numérica: Regras de Newton-Cotes](./ipynb/aula-13-integracao-newtonCotes.ipynb) (4h)
+    - [Caderno 15 - Quadratura Gaussiana](./ipynb/aula-14-quadratura-gaussiana)
+    - [_Code session 8_ - integrate](./ipynb/code-sessions/codeSession-8-integrate.ipynb)
     - Avaliação: Projeto Computacional (4h)
 
 
@@ -123,11 +123,11 @@ O programa do curso segue abaixo:
 
 - Diferenciação numérica e resolução de equações diferenciais
 
-    - [Caderno 16 - Diferenciação numérica](aula-15-diferenciacao-numerica.ipynb)
-    - [Caderno 17 - Solução numérica de EDOs](aula-16-solucoes-edo.ipynb)
-    - [Caderno 18 - Método de Euler](aula-17-metodo-euler.ipynb)
-    - [Caderno 19 - Métodos de Taylor e Runge-Kutta de 2a. ordem](aula-18-taylor-rungeKutta.ipynb)
-    - [_Code session 9_ - solve_ivp](code-sessions/codeSession-9-solve_ivp.ipynb)
+    - [Caderno 16 - Diferenciação numérica](./ipynb/aula-15-diferenciacao-numerica.ipynb)
+    - [Caderno 17 - Solução numérica de EDOs](./ipynb/aula-16-solucoes-edo.ipynb)
+    - [Caderno 18 - Método de Euler](./ipynb/aula-17-metodo-euler.ipynb)
+    - [Caderno 19 - Métodos de Taylor e Runge-Kutta de 2a. ordem](./ipynb/aula-18-taylor-rungeKutta.ipynb)
+    - [_Code session 9_ - solve_ivp](./ipynb/code-sessions/codeSession-9-solve_ivp.ipynb)
 
 ## Desenvolvimento
 
@@ -143,7 +143,7 @@ A disciplina é composta por 4 avaliações, organizadas de acordo com o seguint
 
 | Módulo | ID | Modalidade | Tipo | Peso | Descrição |
 |:---:|:---:|:---:|:---:|:---:|:---|
-| 1 | P1 | Prova | Individual | 1/3 | Ver manual de orientação |
+| 1 | P1 | Quiz | Individual | 1/3 | Ver manual de orientação |
 | 2 | P2 | Prova | Individual | 1/3 | Ver manual de orientação |
 | 3 | P3 | Projeto | Equipe | 1/3 | Ver manual de orientação |
 | 4 | P4 | Projeto | Equipe | 1/3 | Ver manual de orientação |

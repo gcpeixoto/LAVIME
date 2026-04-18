@@ -13,7 +13,7 @@ wheels/
 .ipynb_checkpoints/
 .DS_Store
 .vscode/
-./scripts/outline.txt
+./script/outline.txt
 
 # MyST build outputs
 _build

@@ -2,7 +2,7 @@
 version: 1
 project:
   id: d1419344-c164-4318-9948-61e917efd8ff
-  title: "Laboratório Virtual de Métodos Numéricos (LAVIME)"
+  title: "Laboratório Virtual de Métodos Numéricos (LAVIME)"  
   description: "Repositório digital para aprendizagem de métodos numéricos a partir da ciência e engenharia computacional holística."
   keywords: ["Métodos numéricos", "Ciência e engenharia computacional", "Python"]
   authors: ["Gustavo Oliveira"]
@@ -11,27 +11,26 @@ project:
     - file: README.md        
     - title: Cadernos    
       children:
-        - file: ipynb/aula-00-modelagem-programacao.ipynb      
-        - file: ipynb/aula-01-introMetnum.ipynb
-        - file: ipynb/aula-02-erros.ipynb
-        - file: ipynb/aula-03-analise-grafica.ipynb
-        - file: ipynb/aula-04-bissecao.ipynb
-        - file: ipynb/aula-05-newton.ipynb
-        - file: ipynb/aula-06-matrizes-vetores.ipynb
-        - file: ipynb/aula-07-fatoracao-lu.ipynb
-        - file: ipynb/aula-08-jacobi-seidel.ipynb
-        - file: ipynb/aula-09-newton-nao-linear.ipynb
-        - file: ipynb/aula-10-interpolacao-newton.ipynb
-        - file: ipynb/aula-11-cholesky.ipynb
-        - file: ipynb/aula-11-minimos-quadrados.ipynb
-        - file: ipynb/aula-12-ajusteNaoLinear.ipynb
-        - file: ipynb/aula-13-integracao-newtonCotes.ipynb
-        - file: ipynb/aula-14-interpolacao-lagrange.ipynb
-        - file: ipynb/aula-14-quadratura-gaussiana.ipynb
-        - file: ipynb/aula-15-diferenciacao-numerica.ipynb
-        - file: ipynb/aula-16-solucoes-edo.ipynb
-        - file: ipynb/aula-17-metodo-euler.ipynb
-        - file: ipynb/aula-18-taylor-rungeKutta.ipynb      
+        - file: ipynb/00-modelagem-programacao.ipynb      
+        - file: ipynb/01-introMetnum.ipynb
+        - file: ipynb/02-erros.ipynb
+        - file: ipynb/03-analise-grafica.ipynb
+        - file: ipynb/04-bissecao.ipynb
+        - file: ipynb/05-newton.ipynb
+        - file: ipynb/06-matrizes-vetores.ipynb
+        - file: ipynb/07-fatoracao-lu.ipynb
+        - file: ipynb/08-jacobi-seidel.ipynb
+        - file: ipynb/09-newton-nao-linear.ipynb
+        - file: ipynb/10-interpolacao-newton.ipynb        
+        - file: ipynb/11-minimos-quadrados.ipynb
+        - file: ipynb/12-ajusteNaoLinear.ipynb
+        - file: ipynb/13-integracao-newtonCotes.ipynb
+        - file: ipynb/14-interpolacao-lagrange.ipynb
+        - file: ipynb/14-quadratura-gaussiana.ipynb
+        - file: ipynb/15-diferenciacao-numerica.ipynb
+        - file: ipynb/16-solucoes-edo.ipynb
+        - file: ipynb/17-metodo-euler.ipynb
+        - file: ipynb/18-taylor-rungeKutta.ipynb      
     - title: Recortes
       children:
         - file: ipynb/clippings/clipping-01-analise-numerica.ipynb
@@ -91,3 +90,4 @@ site:
       logo_dark: ./styles/numbiosis-dark.png
       logo_text: "Projeto Numbiosis"
       numbered_references : true
+      style: ./styles/custom.css
