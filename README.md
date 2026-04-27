@@ -2,7 +2,7 @@
 
 ## Apresentação
 
-O LAVIME é um repositório digital aberto que agrega recursos de aprendizagem em métodos numéricos aplicados, tendo por base a visão de uma "engenharia computacional holística" para a era dos dados (leia o artigo [_Engenharia computacional para um mundo centrado em dados_](https://tril.ci.ufpb.br/2021/10/16/engenharia-computacional-para-um-mundo-centrado-em-dados/)). O LAVIME é essencialmente composto por um livro e por tópicos complementares diversos, escritos no formato de cadernos interativos (arquivos `.ipynb`). São cobertos não apenas os assuntos clássicos que costumam ser ensinados em disciplinas equivalentes em qualquer curso superior de universidades nacionais ou estrangeiras, mas também tópicos modernos que se entrelaçam para produzir uma engenharia cada vez mais centrada em dados. Vale citar: 
+O LAVIME é um repositório digital aberto que agrega recursos de aprendizagem em métodos numéricos aplicados, tendo por base a visão de uma "engenharia computacional holística" para a era dos dados (leia o artigo [_Engenharia computacional para um mundo centrado em dados_](https://tril.ci.ufpb.br/2021/10/16/engenharia-computacional-para-um-mundo-centrado-em-dados/)). O LAVIME é essencialmente composto por um livro e por tópicos complementares diversos escritos no formato de cadernos interativos (arquivos `.ipynb`). São cobertos não apenas os assuntos clássicos que costumam ser ensinados em disciplinas equivalentes em qualquer curso superior de universidades nacionais ou estrangeiras, mas também tópicos modernos que se entrelaçam para produzir uma engenharia cada vez mais centrada em dados. Vale citar: 
 
 - exemplos teóricos e aplicados;
 - bancos de dados reais de pequena escala;
@@ -12,7 +12,7 @@ O LAVIME é um repositório digital aberto que agrega recursos de aprendizagem e
 - dicas de programação e
 - recortes suplementares.
 
-Pretende-se mostrar que conceitos tradicionais são a base para os _métodos numéricos de nova geração_, que criam interdisciplinaridade com temáticas do estado-da-arte, tais como aprendizado de máquina científico, redes neurais informadas pela física, modelos de ordem reduzida e técnicas que fazem interface com a ciência da computação e outras áreas aplicadas.
+Pretende-se mostrar que conceitos tradicionais são a base para os _métodos numéricos de nova geração_, que criam interdisciplinaridade com temáticas do estado-da-arte, tais como aprendizado de máquina científico (SciML), redes neurais informadas pela física (PINNs), modelos de ordem reduzida (ROMs) e técnicas que fazem interface com a ciência da computação e outras áreas aplicadas.
 
 O conteúdo básico é ensinado na disciplina _Cálculo Numérico_ (GDCOC0072) ministrada pelo [Prof. Gustavo Oliveira](https://gcpeixoto.github.io) ao longo de um semestre, atendendo tanto os cursos de graduação do Centro de Informática da UFPB, quanto de outros centros. Neste rol incluem-se:
 
@@ -25,9 +25,9 @@ O conteúdo básico é ensinado na disciplina _Cálculo Numérico_ (GDCOC0072) m
 
 ## História e impacto
 
-O material começou a ser desenvolvido pelo professor no âmbito do [Projeto Numbiosis](http://numbiosis.ci.ufpb.br/pt/inicio/) em 2017. Em 2019, foi lançada a versão _web_. Até o ano de 2020, recebeu suporte do Programa Institucional de Monitoria com contribuições ativas. De 2021 a 2024, o projeto teve suporte reduzido com atualizações esporádicas. A partir de 2025, uma nova etapa de melhorias foi iniciada para contemplar extensões de conteúdo para aplicações voltadas a dados e modernizações para um espectro novo de ciência e engenharia computacional. Em 2026, o material passou por uma nova atualização tecnológica de interface. 
+O material começou a ser desenvolvido pelo professor no âmbito do [Projeto Numbiosis](http://numbiosis.ci.ufpb.br/pt/inicio/) em 2017. Em 2019, foi lançada a versão _web_. Até 2020, o projeto recebeu suporte do Programa Institucional de Monitoria com contribuições ativas de alguns alunos. De 2021 a 2024, o projeto teve suporte reduzido com atualizações esporádicas. A partir de 2025, uma nova etapa de melhorias foi iniciada para contemplar extensões de conteúdo para aplicações voltadas a dados e modernizações para um espectro novo de ciência e engenharia computacional. Em 2026, o material passou por uma  atualização tecnológica completa de interface. 
 
-Empregado semestralmente, o LAVIME (anteriormente LVMN) já alcançou mais de 600 discentes dos oriundos dos diversos cursos de graduação em ciências exatas da UFPB. Há diversos relatos de discentes que testemunham o impacto do LAVIME em sua formação e como os materiais aqui dispostos lhes proporcionaram outra perspectiva de formação.
+Empregado semestralmente, o LAVIME (anteriormente LVMN) já alcançou mais de 600 discentes oriundos dos diversos cursos de graduação em ciências exatas da UFPB. Há diversos relatos de discentes acerca do impacto positivo do LAVIME e dos materiais aqui dispostos em sua formação acadêmica e amplitude de perspectivas.
 
 ## Objetivos
 

@@ -6,7 +6,11 @@ project:
   description: "Repositório digital para aprendizagem de métodos numéricos a partir da ciência e engenharia computacional holística."
   keywords: ["Métodos numéricos", "Ciência e engenharia computacional", "Python"]
   authors: ["Gustavo Oliveira"]
-  github: "https://github.com/gcpeixoto/LAVIME"  
+  github: "https://github.com/gcpeixoto/LAVIME"    
+  # Extensions for admonition colors, customization etc is now possible through
+  # JS plugins. See https://jupyterbook.org/stable/plugins/plugins/ 
+  # plugins:
+  # - plugins/plugin-1.mjs  
   toc:    
     - file: README.md        
     - title: Cadernos    
@@ -88,6 +92,6 @@ site:
   #   favicon: favicon.ico
       logo: ./styles/numbiosis.png
       logo_dark: ./styles/numbiosis-dark.png
-      logo_text: "Projeto Numbiosis"
+      logo_text: "Laboratório Virtual de Métodos Numéricos - LAVIME (DCC/CI/UFPB)"
       numbered_references : true
       style: ./styles/custom.css

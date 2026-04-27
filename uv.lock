@@ -880,6 +880,7 @@ source = { virtual = "." }
 dependencies = [
     { name = "bokeh" },
     { name = "dash" },
+    { name = "ipykernel" },
     { name = "jupyter-book" },
     { name = "matplotlib" },
     { name = "numpy" },
@@ -896,6 +897,7 @@ dependencies = [
 requires-dist = [
     { name = "bokeh", specifier = ">=3.9.0" },
     { name = "dash", specifier = ">=4.1.0" },
+    { name = "ipykernel", specifier = ">=7.2.0" },
     { name = "jupyter-book", specifier = ">=2.1.4" },
     { name = "matplotlib", specifier = ">=3.10.8" },
     { name = "numpy", specifier = ">=2.4.4" },
