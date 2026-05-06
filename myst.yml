@@ -28,8 +28,7 @@ project:
         - file: ipynb/10-interpolacao-newton.ipynb        
         - file: ipynb/11-minimos-quadrados.ipynb
         - file: ipynb/12-ajusteNaoLinear.ipynb
-        - file: ipynb/13-integracao-newtonCotes.ipynb
-        - file: ipynb/14-interpolacao-lagrange.ipynb
+        - file: ipynb/13-integracao-newtonCotes.ipynb       
         - file: ipynb/14-quadratura-gaussiana.ipynb
         - file: ipynb/15-diferenciacao-numerica.ipynb
         - file: ipynb/16-solucoes-edo.ipynb
